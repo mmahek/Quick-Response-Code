@@ -79,13 +79,13 @@ QR-Genie/
 
 
 ✨ Future Enhancements
-
+```
 Add multiple export formats (SVG, JPG)
 Custom QR border shapes
 Recent QR history & management
 Auto filename generator
 macOS & Linux support packaging
-
+```
 
 👩‍💻 Developer ->
 Mahek 
