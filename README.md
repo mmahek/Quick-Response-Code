@@ -17,6 +17,9 @@ You can choose QR + background color, add a logo inside the QR code, and save yo
 <img src="Screenshot (88).png" alt="QR Genie UI" width="800">
 
 ---
+## 🖼️ Application Title
+
+<img src=".png" alt="QR Genie UI" width="800">
 
 ## 🚀 Features
 
