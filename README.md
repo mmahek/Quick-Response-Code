@@ -14,7 +14,7 @@ You can choose QR + background color, add a logo inside the QR code, and save yo
 
 > A modern, clean and simple UI for everyone!
 
-<img src="interface.png" alt="QR Genie UI" width="800">
+<img src="Screenshot (88).png" alt="QR Genie UI" width="800">
 
 ---
 
@@ -46,7 +46,7 @@ You can choose QR + background color, add a logo inside the QR code, and save yo
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repo
-```bash
+bash
 git clone https://github.com/mmahekk/QR-Genie.git
 cd QR-Genie
 2️⃣ Install dependencies
@@ -78,22 +78,17 @@ QR-Genie/
 └── requirements.txt
 
 
-✨ Future Enhancements --> 
+✨ Future Enhancements
 
 Add multiple export formats (SVG, JPG)
-
 Custom QR border shapes
-
 Recent QR history & management
-
 Auto filename generator
-
 macOS & Linux support packaging
 
 
 👩‍💻 Developer ->
-
-Mahek --
+Mahek 
 📧 Email: mmahekk24@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/mmahekk24
