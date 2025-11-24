@@ -46,8 +46,9 @@ You can choose QR + background color, add a logo inside the QR code, and save yo
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repo
-bash
+```
 git clone https://github.com/mmahekk/QR-Genie.git
+```
 cd QR-Genie
 2️⃣ Install dependencies
 pip install qrcode pillow
@@ -57,16 +58,17 @@ python qr_genie.py
 
 
 🎯 How to Use
-
+```
 1️⃣ Enter URL or text in the input box
 2️⃣ Choose QR color & background color
 3️⃣ (Optional) Add logo file
 4️⃣ Click Generate QR Code
 5️⃣ Preview will appear instantly
 6️⃣ Click Save QR Code to store it locally
-
+```
 
 📌 Folder Structure (Recommended)
+```
 QR-Genie/
 │
 ├── assets/
@@ -76,7 +78,7 @@ QR-Genie/
 ├── qr_genie.py
 ├── README.md
 └── requirements.txt
-
+```
 
 ✨ Future Enhancements
 ```
